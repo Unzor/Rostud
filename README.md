@@ -16,7 +16,7 @@ Sample code:
 <html>
 <head>
 <script src="https://unzor.github.io/Rostud/rostud.js">
-<head>
+</head>
 <body>
 <h1>
 Rostud sample
