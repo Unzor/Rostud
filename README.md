@@ -15,13 +15,13 @@ Sample code:
 <!DOCTYPE HTML>
 <html>
 <head>
-<script src="https://unzor.github.io/Rostud/rostud.js">
+  <script src="https://unzor.github.io/Rostud/rostud.js"></script>
 </head>
 <body>
 <h1>
 Rostud sample
 </h1>
-<a href="javascript:location.href=myRostudObject.copyGame(6691388484)">Open My Game!</a>
+<a href="javascript:location.href=new Rostud().copyGame(6691388484)">Open My Game!</a>
 </body>
 </html>
 ```
